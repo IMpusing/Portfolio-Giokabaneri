@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://i.imgur.com/YmJYAjF.jpeg",
+    your_img_url: "https://i.imgur.com/YmJYAjF_d.webp?maxwidth=760&fidelity=grand",
 };
 
 const dataabout = {
