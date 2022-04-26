@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+![banner](https://github.com/IMpusing/DataBase_Gio/blob/main/Episode%2002.png)
 
 The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
 Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
