@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://raw.githubusercontent.com/IMpusing/Portfolio-Giokabaneri/main/src/assets/images/Profile.png",
+    your_img_url: "https://i.imgur.com/CGdboa6.png",
 };
 
 const dataabout = {
